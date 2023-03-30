@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Print
+comment1.params=
+comment1.target=Print()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ mainPr()
+comment4.params=
+comment4.target=void\ Exaggerate()
+comment5.params=d\ a
+comment5.target=void\ acninput(int,\ java.lang.String)
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=savings
+comment1.params=n\ t
+comment1.target=double\ INTEREST_VALUE(int,\ int)
+comment2.params=n\ t
+comment2.target=double\ TOTAL_AMOUNT(int,\ int)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=basic
+comment1.params=a\ b\ c\ d\ e\ f\ g
+comment1.target=void\ numSorting(int[],\ int[],\ int[],\ int[],\ java.lang.String[],\ java.lang.String[],\ long[])
+comment2.params=a\ b\ c\ d\ e\ f\ g
+comment2.target=void\ stringSorting(int[],\ int[],\ double[],\ int[],\ java.lang.String[],\ java.lang.String[],\ long[])
+comment3.params=d
+comment3.target=java.lang.String\ abc(int)
+comment4.params=n
+comment4.target=void\ convertor(int)
+comment5.params=a
+comment5.target=void\ checkDateFor(java.lang.String)
+numComments=6

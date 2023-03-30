@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NewAccount
+comment1.params=count\ num\ ob
+comment1.target=void\ main(int,\ int,\ Print)
+comment2.params=inmoney\ type\ time
+comment2.target=double\ calc(int,\ java.lang.String,\ int)
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Searching
+comment1.params=
+comment1.target=Searching()
+comment2.params=a\ n
+comment2.target=int\ imp(java.lang.String[],\ java.lang.String)
+comment3.params=a\ n
+comment3.target=boolean\ Binary(java.lang.String[],\ java.lang.String)
+comment4.params=a\ n
+comment4.target=boolean\ lowerlimit(java.lang.String[],\ java.lang.String)
+comment5.params=a\ n
+comment5.target=boolean\ upperlimit(java.lang.String[],\ java.lang.String)
+comment6.params=a\ n
+comment6.target=int\ main(java.lang.String[],\ java.lang.String)
+numComments=7
